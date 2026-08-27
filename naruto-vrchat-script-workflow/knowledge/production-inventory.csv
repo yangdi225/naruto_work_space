@@ -1,0 +1,18 @@
+resource_id,type,name,status,substitute,notes,last_verified
+AV001,avatar,鸣人,unknown,,请确认模型与口型可用性,
+AV002,avatar,佐助,unknown,,请确认模型与拔刀动作,
+AV003,avatar,小樱,unknown,,请确认表情与挥拳动作,
+AV004,avatar,卡卡西,unknown,,请确认亲热天堂道具或持书动作,
+AV005,avatar,鼬,unknown,,请确认写轮眼表情或眼部特效,
+AV006,avatar,自来也,unknown,,请确认结印与夸张反应动作,
+AV007,avatar,蛤吉,unknown,画外音加低机位替代角色,S011 的关键证人,
+AV008,avatar,守鹤,unknown,小型替代模型加画外音,S007 的关键角色,
+MAP001,map,木叶训练场,unknown,通用空地,适合双人正反打,
+MAP002,map,火影办公室,unknown,桌椅室内场景,适合追责审判,
+MAP003,map,一乐拉面,unknown,木叶街道加拉面碗,适合日常冲突,
+MAP004,map,晓组织基地,unknown,昏暗室内场景,适合组织内耗,
+PROP001,prop,任务卷轴,unknown,普通卷轴,证据道具,
+PROP002,prop,档案袋,unknown,纸张或卷轴,证据道具,
+PROP003,prop,拉面碗,unknown,任意食物碗,一乐相关脚本,
+FX001,effect,通灵烟雾,substitute,音效加角色突然入画,不要求粒子特效,
+

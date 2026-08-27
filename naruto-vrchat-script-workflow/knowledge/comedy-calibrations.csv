@@ -1,0 +1,9 @@
+round_id,candidate_id,premise,characters,mechanism,user_verdict,priority,funniest_line,boredom_start,decision,notes
+R001,A,影分身替鸣人道歉后拒绝解除,鸣人|影分身|小樱画外音,分身背叛,boring,0,,,rejected,损失偏轻且缺少危险的新信息
+R001,B,佐助切洋葱尝试开启万花筒,鼬|佐助,黑色旧账反压,top,2,,,shortlisted,用户认为属于比较有意思的一档
+R001,C,带土用神威拆穿卡卡西迟到借口,带土|卡卡西,死亡旧账反压,interesting,1,,,shortlisted,原著关系与迟到借口直接碰撞
+R001,D,佐助质疑大蛇丸永生的可信度,大蛇丸|佐助,身份信用反压,interesting,1,,,shortlisted,夺舍者被目标反向审视
+R001,E,自来也因新书写纲手提前占病床,纲手|自来也,预判挨打,boring,0,,,rejected,结局从开头即可预测且主动权不转移
+R001,F,迪达拉把蝎当成唯一能看完爆炸的观众,蝎|迪达拉,能力代价黑色反差,interesting,1,,,shortlisted,艺术欲望与不死能力形成危险互用
+R002,A,鼬被灭族旧账封口后认可洋葱方案,鼬|佐助,原梗复现后追加鸣人反差,weaker,0,,,hold,用户比较后认为版本B更好；前半段重复原冷开场导致新信息出现偏晚
+R002,B,佐助声称已对鸣人尝试万花筒条件,鼬|佐助,危险悬念加连续事实翻面,preferred,2,,,selected,用户认为版本B更好；鸣人仍活着与亲戚旧账形成连续两次主动权转移
